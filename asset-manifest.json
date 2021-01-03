@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Code-Kat/amazon-clone.git/static/css/main.29bdf114.chunk.css",
-    "main.js": "/Code-Kat/amazon-clone.git/static/js/main.63c9bb61.chunk.js",
-    "main.js.map": "/Code-Kat/amazon-clone.git/static/js/main.63c9bb61.chunk.js.map",
+    "main.css": "/Code-Kat/amazon-clone.git/static/css/main.c4de7b50.chunk.css",
+    "main.js": "/Code-Kat/amazon-clone.git/static/js/main.d05d3f28.chunk.js",
+    "main.js.map": "/Code-Kat/amazon-clone.git/static/js/main.d05d3f28.chunk.js.map",
     "runtime-main.js": "/Code-Kat/amazon-clone.git/static/js/runtime-main.e44d0d9c.js",
     "runtime-main.js.map": "/Code-Kat/amazon-clone.git/static/js/runtime-main.e44d0d9c.js.map",
-    "static/js/2.cf17ca3a.chunk.js": "/Code-Kat/amazon-clone.git/static/js/2.cf17ca3a.chunk.js",
-    "static/js/2.cf17ca3a.chunk.js.map": "/Code-Kat/amazon-clone.git/static/js/2.cf17ca3a.chunk.js.map",
+    "static/js/2.2dea1389.chunk.js": "/Code-Kat/amazon-clone.git/static/js/2.2dea1389.chunk.js",
+    "static/js/2.2dea1389.chunk.js.map": "/Code-Kat/amazon-clone.git/static/js/2.2dea1389.chunk.js.map",
     "static/js/3.12c99f2e.chunk.js": "/Code-Kat/amazon-clone.git/static/js/3.12c99f2e.chunk.js",
     "static/js/3.12c99f2e.chunk.js.map": "/Code-Kat/amazon-clone.git/static/js/3.12c99f2e.chunk.js.map",
     "index.html": "/Code-Kat/amazon-clone.git/index.html",
-    "static/css/main.29bdf114.chunk.css.map": "/Code-Kat/amazon-clone.git/static/css/main.29bdf114.chunk.css.map",
-    "static/js/2.cf17ca3a.chunk.js.LICENSE.txt": "/Code-Kat/amazon-clone.git/static/js/2.cf17ca3a.chunk.js.LICENSE.txt",
+    "static/css/main.c4de7b50.chunk.css.map": "/Code-Kat/amazon-clone.git/static/css/main.c4de7b50.chunk.css.map",
+    "static/js/2.2dea1389.chunk.js.LICENSE.txt": "/Code-Kat/amazon-clone.git/static/js/2.2dea1389.chunk.js.LICENSE.txt",
     "static/media/homeImage.9a9e5718.png": "/Code-Kat/amazon-clone.git/static/media/homeImage.9a9e5718.png",
     "static/media/logo.c258172c.png": "/Code-Kat/amazon-clone.git/static/media/logo.c258172c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e44d0d9c.js",
-    "static/js/2.cf17ca3a.chunk.js",
-    "static/css/main.29bdf114.chunk.css",
-    "static/js/main.63c9bb61.chunk.js"
+    "static/js/2.2dea1389.chunk.js",
+    "static/css/main.c4de7b50.chunk.css",
+    "static/js/main.d05d3f28.chunk.js"
   ]
 }
