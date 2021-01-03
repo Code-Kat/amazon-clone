@@ -7,8 +7,6 @@ import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import { useStateValue } from './StateProvider';
 import { auth } from './firebase';
 
-
-
 function Header() {
     const [{ basket, user }, dispatch] = useStateValue();
 
@@ -69,4 +67,5 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
+

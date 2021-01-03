@@ -46,7 +46,7 @@ function Home() {
                     Hiking Jacket,Women's Waterproof and Breathable Insulated Hooded Jacket,Outdoor Water Resistant Rain Jacket,Autumn(M-XXL)"
                     price={19.99}
                     rating={3}
-                    image= "https://images-na.ssl-images-amazon.com/images/I/51yuWCINCPL._AC_SL1001_.jpg"
+                    image= "https://m.media-amazon.com/images/I/81YT3r4JcqL._AC_UL320_.jpg"
                 />
                   <Product 
                     id="12348"
