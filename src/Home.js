@@ -13,7 +13,6 @@ function Home() {
             alt="background"
             />
 
-            {/* products */}
             <div className="home__row">
                 <Product 
                     id="1234"

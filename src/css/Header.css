@@ -60,7 +60,8 @@
     height: 12px;
     padding: 10px;
     border: none;
-    width: 100%;     
+    width: 100%;   
+    outline-width: 0ch;  
 }
 
 .header__searchIcon {
